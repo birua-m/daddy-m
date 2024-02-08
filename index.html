@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Channels</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Navigation Menu -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <a class="navbar-brand" href="#">Live Channels</a>
+        <div class="custom-control custom-switch ml-auto">
+            <input type="checkbox" checked class="custom-control-input" id="darkModeSwitch">
+            <label class="custom-control-label" for="darkModeSwitch">Dark Mode</label>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="hero-section" id="hero-section">
+        <h1>Welcome to Live Channels</h1>
+    </div>
+
+    <div class="container mt-4">
+
+        <input type="text" id="search-input" class="form-control mb-3" placeholder="Search channels">
+        
+        <!-- Category Filter -->
+        <select id="category-filter" class="form-control mb-3">
+            <option value="">All Categories</option>
+            <!-- Categories will be dynamically populated from the JSON -->
+        </select>
+        
+        <div id="channels-container" class="d-flex flex-wrap justify-content-between"></div>
+
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <!-- Custom JS -->
+    <script src="script.js"></script>
+
+</body>
+</html>

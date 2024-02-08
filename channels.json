@@ -1,0 +1,1670 @@
+{
+  "channels": [
+    {
+      "name": "BT Sport 1 HD",
+      "url": "https://www.daddylivehd.icu/live/stream-31.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "name": "BT Sport 2 HD",
+      "url": "https://www.daddylivehd.icu/live/stream-32.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=2"
+    },
+    {
+      "name": "BT Sport 3 HD",
+      "url": "https://www.daddylivehd.icu/live/stream-33.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=3"
+    },
+    {
+      "name": "BT Sport ESPN",
+      "url": "https://www.daddylivehd.icu/live/stream-34.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=4"
+    },
+    {
+      "name": "Sky Sports Football UK",
+      "url": "https://www.daddylivehd.icu/live/stream-35.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=5"
+    },
+    {
+      "name": "Sky Sports Arena UK",
+      "url": "https://www.daddylivehd.icu/live/stream-36.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=6"
+    },
+    {
+      "name": "Sky Sports Action UK",
+      "url": "https://www.daddylivehd.icu/live/stream-37.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=7"
+    },
+    {
+      "name": "Sky Sports Main Event",
+      "url": "https://www.daddylivehd.icu/live/stream-38.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=8"
+    },
+    {
+      "name": "Sky sports Premier League",
+      "url": "https://www.daddylivehd.icu/live/stream-130.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=9"
+    },
+    {
+      "name": "Fox Sports 1 USA",
+      "url": "https://www.daddylivehd.icu/live/stream-39.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=10"
+    },
+    {
+      "name": "Tennis Channel",
+      "url": "https://www.daddylivehd.icu/live/stream-40.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=11"
+    },
+    {
+      "name": "Euro Sport 1 UK",
+      "url": "https://www.daddylivehd.icu/live/stream-41.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=12"
+    },
+    {
+      "name": "Euro Sport 2 UK",
+      "url": "https://www.daddylivehd.icu/live/stream-42.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=13"
+    },
+    {
+      "name": "Astro SuperSport 5",
+      "url": "https://www.daddylivehd.icu/live/stream-43.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=14"
+    },
+    {
+      "name": "ESPN USA",
+      "url": "https://www.daddylivehd.icu/live/stream-44.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=15"
+    },
+    {
+      "name": "ESPN2 USA",
+      "url": "https://www.daddylivehd.icu/live/stream-45.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=16"
+    },
+    {
+      "name": "beIN SPORTS 1 English",
+      "url": "https://www.daddylivehd.icu/live/stream-61.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=17"
+    },
+    {
+      "name": "beIN SPORTS 2 English",
+      "url": "https://www.daddylivehd.icu/live/stream-90.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=18"
+    },
+    {
+      "name": "beIN SPORTS 3 English",
+      "url": "https://www.daddylivehd.icu/live/stream-46.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=19"
+    },
+    {
+      "name": "beIN SPORTS 1 Turkey",
+      "url": "https://www.daddylivehd.icu/live/stream-62.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=20"
+    },
+    {
+      "name": "beIN SPORTS 2 Turkey",
+      "url": "https://www.daddylivehd.icu/live/stream-63.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=21"
+    },
+    {
+      "name": "beIN SPORTS 3 Turkey",
+      "url": "https://www.daddylivehd.icu/live/stream-64.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=22"
+    },
+    {
+      "name": "beIN SPORTS 4 Turkey",
+      "url": "https://www.daddylivehd.icu/live/stream-67.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=23"
+    },
+    {
+      "name": "Sky Sports Cricket",
+      "url": "https://www.daddylivehd.icu/live/stream-65.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=24"
+    },
+    {
+      "name": "Super Sport Cricket",
+      "url": "https://www.daddylivehd.icu/live/stream-368.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=25"
+    },
+    {
+      "name": "Fox Cricket",
+      "url": "https://www.daddylivehd.icu/live/stream-369.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=26"
+    },
+    {
+      "name": "Astro Cricket",
+      "url": "https://www.daddylivehd.icu/live/stream-370.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=27"
+    },
+    {
+      "name": "Willow Cricket",
+      "url": "https://www.daddylivehd.icu/live/stream-346.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=28"
+    },
+    {
+      "name": "TUDN USA",
+      "url": "https://www.daddylivehd.icu/live/stream-66.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=29"
+    },
+    {
+      "name": "Sky Sports Golf",
+      "url": "https://www.daddylivehd.icu/live/stream-70.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=30"
+    },
+    {
+      "name": "Golf Channel",
+      "url": "https://www.daddylivehd.icu/live/stream-318.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=31"
+    },
+    {
+      "name": "Eleven Sports 1 Poland",
+      "url": "https://www.daddylivehd.icu/live/stream-71.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=32"
+    },
+    {
+      "name": "Eleven Sports 2 Poland",
+      "url": "https://www.daddylivehd.icu/live/stream-72.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=33"
+    },
+    {
+      "name": "Canal+ Sport Poland",
+      "url": "https://www.daddylivehd.icu/live/stream-73.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=34"
+    },
+    {
+      "name": "Sport TV1 Portugal",
+      "url": "https://www.daddylivehd.icu/live/stream-49.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=35"
+    },
+    {
+      "name": "Sport TV2 Portugal",
+      "url": "https://www.daddylivehd.icu/live/stream-74.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=36"
+    },
+    {
+      "name": "Polsat Sport Extra Poland",
+      "url": "https://www.daddylivehd.icu/live/stream-50.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=37"
+    },
+    {
+      "name": "Supersport Football",
+      "url": "https://www.daddylivehd.icu/live/stream-56.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=38"
+    },
+    {
+      "name": "Euro Sport 1 Poland",
+      "url": "https://www.daddylivehd.icu/live/stream-57.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=39"
+    },
+    {
+      "name": "Euro Sport 2 Poland",
+      "url": "https://www.daddylivehd.icu/live/stream-58.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=40"
+    },
+    {
+      "name": "Sky Sports F1 UK",
+      "url": "https://www.daddylivehd.icu/live/stream-60.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=41"
+    },
+    {
+      "name": "beIN SPORTS 1 Arabia",
+      "url": "https://www.daddylivehd.icu/live/stream-91.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=42"
+    },
+    {
+      "name": "beIN SPORTS 2 Arabia",
+      "url": "https://www.daddylivehd.icu/live/stream-92.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=43"
+    },
+    {
+      "name": "beIN SPORTS 3 Arabia",
+      "url": "https://www.daddylivehd.icu/live/stream-93.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=44"
+    },
+    {
+      "name": "beIN SPORTS 4 Arabia",
+      "url": "https://www.daddylivehd.icu/live/stream-94.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=45"
+    },
+    {
+      "name": "NBCSN USA",
+      "url": "https://www.daddylivehd.icu/live/stream-47.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=46"
+    },
+    {
+      "name": "NFL Network USA",
+      "url": "https://www.daddylivehd.icu/live/stream-97.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=47"
+    },
+    {
+      "name": "NBA TV USA",
+      "url": "https://www.daddylivehd.icu/live/stream-98.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=48"
+    },
+    {
+      "name": "NHL Network USA",
+      "url": "https://www.daddylivehd.icu/live/stream-99.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=49"
+    },
+    {
+      "name": "Fox Sports 2 USA",
+      "url": "https://www.daddylivehd.icu/live/stream-100.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=50"
+    },
+    {
+      "name": "Fox Sports 3 USA",
+      "url": "https://www.daddylivehd.icu/live/stream-101.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=51"
+    },
+    {
+      "name": "Fox Sports 4 USA",
+      "url": "https://www.daddylivehd.icu/live/stream-102.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=52"
+    },
+    {
+      "name": "Fox Sports 5 USA",
+      "url": "https://www.daddylivehd.icu/live/stream-103.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=53"
+    },
+    {
+      "name": "MUTV",
+      "url": "https://www.daddylivehd.icu/live/stream-95.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=54"
+    },
+    {
+      "name": "Celtic FC TV",
+      "url": "https://www.daddylivehd.icu/live/stream-96.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=55"
+    },
+    {
+      "name": "Rangers FC TV",
+      "url": "https://www.daddylivehd.icu/live/stream-104.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=56"
+    },
+    {
+      "name": "Barca TV",
+      "url": "https://www.daddylivehd.icu/live/stream-105.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=57"
+    },
+    {
+      "name": "Real Madrid TV",
+      "url": "https://www.daddylivehd.icu/live/stream-106.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=58"
+    },
+    {
+      "name": "Juventus TV",
+      "url": "https://www.daddylivehd.icu/live/stream-107.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=59"
+    },
+    {
+      "name": "AC Milan TV",
+      "url": "https://www.daddylivehd.icu/live/stream-108.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=60"
+    },
+    {
+      "name": "Inter TV",
+      "url": "https://www.daddylivehd.icu/live/stream-109.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=61"
+    },
+    {
+      "name": "TSN1",
+      "url": "https://www.daddylivehd.icu/live/stream-110.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=62"
+    },
+    {
+      "name": "TSN2",
+      "url": "https://www.daddylivehd.icu/live/stream-111.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=63"
+    },
+    {
+      "name": "TSN3",
+      "url": "https://www.daddylivehd.icu/live/stream-112.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=64"
+    },
+    {
+      "name": "TSN4",
+      "url": "https://www.daddylivehd.icu/live/stream-114.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=65"
+    },
+    {
+      "name": "TSN5",
+      "url": "https://www.daddylivehd.icu/live/stream-115.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=66"
+    },
+    {
+      "name": "Sport TV3 Portugal",
+      "url": "https://www.daddylivehd.icu/live/stream-119.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=67"
+    },
+    {
+      "name": "Sport TV4 Portugal",
+      "url": "https://www.daddylivehd.icu/live/stream-120.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=68"
+    },
+    {
+      "name": "Sport TV5 Portugal",
+      "url": "https://www.daddylivehd.icu/live/stream-121.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=69"
+    },
+    {
+      "name": "Ziggo Sport Select",
+      "url": "https://www.daddylivehd.icu/live/stream-122.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=70"
+    },
+    {
+      "name": "Ziggo Sport Voetbal",
+      "url": "https://www.daddylivehd.icu/live/stream-123.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=71"
+    },
+    {
+      "name": "Ziggo Sport Golf",
+      "url": "https://www.daddylivehd.icu/live/stream-124.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=72"
+    },
+    {
+      "name": "Ziggo Sport Racing",
+      "url": "https://www.daddylivehd.icu/live/stream-125.php",
+      "category": "sports",
+      "image": "https://picsum.photos/200/300?random=73"
+    },
+    {
+      "name": "Animal Planet",
+      "url": "https://www.daddylivehd.icu/live/stream-304.php",
+      "category": "Documentary",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "name": "5USA Channel",
+      "url": "https://www.daddylivehd.icu/live/stream-360.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/301"
+    },
+    {
+      "name": "BET Network",
+      "url": "https://www.daddylivehd.icu/live/stream-306.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/302"
+    },
+    {
+      "name": "Bravo TV",
+      "url": "https://www.daddylivehd.icu/live/stream-307.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/303"
+    },
+    {
+      "name": "CBS Sports Network (CBSSN)",
+      "url": "https://www.daddylivehd.icu/live/stream-308.php",
+      "category": "Sports",
+      "image": "https://picsum.photos/200/304"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.daddylivehd.icu/live/stream-309.php",
+      "category": "News",
+      "image": "https://picsum.photos/200/305"
+    },
+    {
+      "name": "Comedy Central",
+      "url": "https://www.daddylivehd.icu/live/stream-310.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/306"
+    },
+    {
+      "name": "Discovery Life",
+      "url": "https://www.daddylivehd.icu/live/stream-311.php",
+      "category": "Documentary",
+      "image": "https://picsum.photos/200/307"
+    },
+    {
+      "name": "Disney Channel",
+      "url": "https://www.daddylivehd.icu/live/stream-312.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/308"
+    },
+    {
+      "name": "Discovery HD",
+      "url": "https://www.daddylivehd.icu/live/stream-313.php",
+      "category": "Documentary",
+      "image": "https://picsum.photos/200/309"
+    },
+    {
+      "name": "Disney XD",
+      "url": "https://www.daddylivehd.icu/live/stream-314.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/310"
+    },
+    {
+      "name": "E! Entertainment",
+      "url": "https://www.daddylivehd.icu/live/stream-315.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/311"
+    },
+    {
+      "name": "ESPNU USA",
+      "url": "https://www.daddylivehd.icu/live/stream-316.php",
+      "category": "Sports",
+      "image": "https://picsum.photos/200/312"
+    },
+    {
+      "name": "FX TV",
+      "url": "https://www.daddylivehd.icu/live/stream-317.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/313"
+    },
+    {
+      "name": "Game Show Network",
+      "url": "https://www.daddylivehd.icu/live/stream-319.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/314"
+    },
+    {
+      "name": "The Hallmark Channel",
+      "url": "https://www.daddylivehd.icu/live/stream-320.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/315"
+    },
+    {
+      "name": "HBO USA",
+      "url": "https://www.daddylivehd.icu/live/stream-321.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/316"
+    },
+    {
+      "name": "History TV",
+      "url": "https://www.daddylivehd.icu/live/stream-322.php",
+      "category": "Documentary",
+      "image": "https://picsum.photos/200/317"
+    },
+    {
+      "name": "Headline News (HLN)",
+      "url": "https://www.daddylivehd.icu/live/stream-323.php",
+      "category": "News",
+      "image": "https://picsum.photos/200/318"
+    },
+    {
+      "name": "Investigation Discovery (ID)",
+      "url": "https://www.daddylivehd.icu/live/stream-324.php",
+      "category": "Documentary",
+      "image": "https://picsum.photos/200/319"
+    },
+    {
+      "name": "ION Television",
+      "url": "https://www.daddylivehd.icu/live/stream-325.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/320"
+    },
+    {
+      "name": "Lifetime Movie Network",
+      "url": "https://www.daddylivehd.icu/live/stream-326.php",
+      "category": "Movies",
+      "image": "https://picsum.photos/200/321"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.daddylivehd.icu/live/stream-327.php",
+      "category": "News",
+      "image": "https://picsum.photos/200/322"
+    },
+    {
+      "name": "MTV USA",
+      "url": "https://www.daddylivehd.icu/live/stream-328.php",
+      "category": "Music",
+      "image": "https://picsum.photos/200/323"
+    },
+    {
+      "name": "National Geographic",
+      "url": "https://www.daddylivehd.icu/live/stream-329.php",
+      "category": "Documentary",
+      "image": "https://picsum.photos/200/324"
+    },
+    {
+      "name": "National Geographic Wild",
+      "url": "https://www.daddylivehd.icu/live/stream-330.php",
+      "category": "Documentary",
+      "image": "https://picsum.photos/200/325"
+    },
+    {
+      "name": "NBC News",
+      "url": "https://www.daddylivehd.icu/live/stream-331.php",
+      "category": "News",
+      "image": "https://picsum.photos/200/326"
+    },
+    {
+      "name": "Nickelodeon",
+      "url": "https://www.daddylivehd.icu/live/stream-332.php",
+      "category": "Kids",
+      "image": "https://picsum.photos/200/327"
+    },
+    {
+      "name": "OWN (Oprah Winfrey Network)",
+      "url": "https://www.daddylivehd.icu/live/stream-333.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/328"
+    },
+    {
+      "name": "Paramount Network",
+      "url": "https://www.daddylivehd.icu/live/stream-334.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/329"
+    },
+    {
+      "name": "PBS America",
+      "url": "https://www.daddylivehd.icu/live/stream-335.php",
+      "category": "Documentary",
+      "image": "https://picsum.photos/200/330"
+    },
+    {
+      "name": "Pop TV",
+      "url": "https://www.daddylivehd.icu/live/stream-336.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/331"
+    },
+    {
+      "name": "Science Channel",
+      "url": "https://www.daddylivehd.icu/live/stream-337.php",
+      "category": "Science",
+      "image": "https://picsum.photos/200/332"
+    },
+    {
+      "name": "Showtime",
+      "url": "https://www.daddylivehd.icu/live/stream-338.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/333"
+    },
+    {
+      "name": "Smithsonian Channel",
+      "url": "https://www.daddylivehd.icu/live/stream-339.php",
+      "category": "Documentary",
+      "image": "https://picsum.photos/200/334"
+    },
+    {
+      "name": "Syfy",
+      "url": "https://www.daddylivehd.icu/live/stream-340.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/335"
+    },
+    {
+      "name": "TBS",
+      "url": "https://www.daddylivehd.icu/live/stream-341.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/336"
+    },
+    {
+      "name": "TLC",
+      "url": "https://www.daddylivehd.icu/live/stream-342.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/337"
+    },
+    {
+      "name": "TNT",
+      "url": "https://www.daddylivehd.icu/live/stream-343.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/338"
+    },
+    {
+      "name": "Travel Channel",
+      "url": "https://www.daddylivehd.icu/live/stream-344.php",
+      "category": "Travel",
+      "image": "https://picsum.photos/200/339"
+    },
+    {
+      "name": "truTV",
+      "url": "https://www.daddylivehd.icu/live/stream-345.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/340"
+    },
+    {
+      "name": "TV Land",
+      "url": "https://www.daddylivehd.icu/live/stream-346.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/341"
+    },
+    {
+      "name": "USA Network",
+      "url": "https://www.daddylivehd.icu/live/stream-347.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/342"
+    },
+    {
+      "name": "VH1",
+      "url": "https://www.daddylivehd.icu/live/stream-348.php",
+      "category": "Music",
+      "image": "https://picsum.photos/200/343"
+    },
+    {
+      "name": "Viceland",
+      "url": "https://www.daddylivehd.icu/live/stream-349.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/344"
+    },
+    {
+      "name": "Weather Channel",
+      "url": "https://www.daddylivehd.icu/live/stream-350.php",
+      "category": "Weather",
+      "image": "https://picsum.photos/200/345"
+    },
+    {
+      "name": "WWE Network",
+      "url": "https://www.daddylivehd.icu/live/stream-351.php",
+      "category": "Sports",
+      "image": "https://picsum.photos/200/346"
+    },
+    {
+      "name": "Adult Swim",
+      "url": "https://www.daddylivehd.icu/live/stream-352.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/347"
+    },
+    {
+      "name": "AMC USA",
+      "url": "https://www.daddylivehd.icu/live/stream-353.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/348"
+    },
+    {
+      "name": "BBC America",
+      "url": "https://www.daddylivehd.icu/live/stream-354.php",
+      "category": "Entertainment",
+      "image": "https://picsum.photos/200/349"
+    },
+    {
+      "name": "BBC World News",
+      "url": "https://www.daddylivehd.icu/live/stream-355.php",
+      "category": "News",
+      "image": "https://picsum.photos/200/350"
+    },
+    {
+      "name": "Bloomberg Television",
+      "url": "https://www.daddylivehd.icu/live/stream-356.php",
+      "category": "Business",
+      "image": "https://picsum.photos/200/351"
+    },
+    
+      {
+        "name": "DAZN 1 Bar Germany",
+        "url": "https://www.daddylivehd.icu/live/stream-427.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/500"
+      },
+      {
+        "name": "DAZN 2 Bar Germany",
+        "url": "https://www.daddylivehd.icu/live/stream-428.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/501"
+      },
+      {
+        "name": "Eleven Sports 3 Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-429.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/502"
+      },
+      {
+        "name": "Arena Sport 1 Serbia",
+        "url": "https://www.daddylivehd.icu/live/stream-430.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/503"
+      },
+      {
+        "name": "Arena Sport 2 Serbia",
+        "url": "https://www.daddylivehd.icu/live/stream-431.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/504"
+      },
+      {
+        "name": "Arena Sport 3 Serbia",
+        "url": "https://www.daddylivehd.icu/live/stream-432.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/505"
+      },
+      {
+        "name": "Arena Sport 1 Croatia",
+        "url": "https://www.daddylivehd.icu/live/stream-433.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/506"
+      },
+      {
+        "name": "Arena Sport 2 Croatia",
+        "url": "https://www.daddylivehd.icu/live/stream-434.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/507"
+      },
+      {
+        "name": "Arena Sport 3 Croatia",
+        "url": "https://www.daddylivehd.icu/live/stream-435.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/508"
+      },
+      {
+        "name": "Movistar Liga de Campeones",
+        "url": "https://www.daddylivehd.icu/live/stream-436.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/509"
+      },
+      {
+        "name": "Movistar Deportes Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-437.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/510"
+      },
+      {
+        "name": "Movistar Deportes 1 Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-438.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/511"
+      },
+      {
+        "name": "Movistar Deportes 2 Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-439.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/512"
+      },
+      {
+        "name": "Orange Sport 1 Romania",
+        "url": "https://www.daddylivehd.icu/live/stream-440.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/513"
+      },
+      {
+        "name": "Orange Sport 2 Romania",
+        "url": "https://www.daddylivehd.icu/live/stream-441.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/514"
+      },
+      {
+        "name": "Orange Sport 3 Romania",
+        "url": "https://www.daddylivehd.icu/live/stream-442.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/515"
+      },
+      {
+        "name": "Orange Sport 4 Romania",
+        "url": "https://www.daddylivehd.icu/live/stream-443.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/516"
+      },
+      {
+        "name": "Polsat Sports News Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-444.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/517"
+      },
+      {
+        "name": "TVN24 Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-445.php",
+        "category": "News",
+        "image": "https://picsum.photos/200/518"
+      },
+      {
+        "name": "DAZN 1 Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-445.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/519"
+      },
+      {
+        "name": "DAZN 2 Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-447.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/520"
+      },
+      {
+        "name": "DAZN 3 Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-448.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/521"
+      },
+      {
+        "name": "DAZN 4 Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-449.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/522"
+      },
+      {
+        "name": "Sky Sports MIX UK",
+        "url": "https://www.daddylivehd.icu/live/stream-449.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/523"
+      },
+      {
+        "name": "BBC One backup",
+        "url": "https://www.daddylivehd.icu/live/stream-551.php",
+        "category": "Entertainment",
+        "image": "https://picsum.photos/200/524"
+      },
+      {
+        "name": "Premier Sports 1 UK",
+        "url": "https://www.daddylivehd.icu/live/stream-451.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/525"
+      },
+      {
+        "name": "TVP INFO Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-452.php",
+        "category": "News",
+        "image": "https://picsum.photos/200/526"
+      },
+      {
+        "name": "Sport Klub HD Serbia",
+        "url": "https://www.daddylivehd.icu/live/stream-453.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/527"
+      },
+      {
+        "name": "#Vamos Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-521.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/528"
+      },
+      {
+        "name": "Barça TV Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-522.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/529"
+      },
+      {
+        "name": "Real Madrid TV Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-523.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/530"
+      },
+      {
+        "name": "EuroSport 1 Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-524.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/531"
+      },
+      {
+        "name": "EuroSport 2 Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-525.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/532"
+      },
+      {
+        "name": "Movistar Deportes 3",
+        "url": "https://www.daddylivehd.icu/live/stream-526.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/533"
+      },
+      {
+        "name": "Movistar Deportes 4",
+        "url": "https://www.daddylivehd.icu/live/stream-527.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/534"
+      },
+      {
+        "name": "Movistar Golf Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-528.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/535"
+      },
+      {
+        "name": "Teledeporte Spain (TDP)",
+        "url": "https://www.daddylivehd.icu/live/stream-529.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/536"
+      },
+      {
+        "name": "Gol Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-530.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/537"
+      },
+      {
+        "name": "Antena 3 Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-531.php",
+        "category": "Entertainment",
+        "image": "https://picsum.photos/200/538"
+      },
+      {
+        "name": "Telecinco Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-532.php",
+        "category": "Entertainment",
+        "image": "https://picsum.photos/200/539"
+      },
+      {
+        "name": "Tve La 1 Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-533.php",
+        "category": "Entertainment",
+        "image": "https://picsum.photos/200/540"
+      },
+      {
+        "name": "Tve La Sexta Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-534.php",
+        "category": "Entertainment",
+        "image": "https://picsum.photos/200/541"
+      },
+      {
+        "name": "Cuatro Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-535.php",
+        "category": "Entertainment",
+        "image": "https://picsum.photos/200/542"
+      },
+      {
+        "name": "Tve La 2 Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-536.php",
+        "category": "Entertainment",
+        "image": "https://picsum.photos/200/543"
+      },
+      {
+        "name": "DAZN F1 Spain",
+        "url": "https://www.daddylivehd.icu/live/stream-537.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/544"
+      },
+      {
+        "name": "Movistar La Liga 1",
+        "url": "https://www.daddylivehd.icu/live/stream-538.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/545"
+      },
+      {
+        "name": "Movistar La Liga 2",
+        "url": "https://www.daddylivehd.icu/live/stream-539.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/546"
+      },
+      {
+        "name": "Movistar La Liga 3",
+        "url": "https://www.daddylivehd.icu/live/stream-540.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/547"
+      },
+      {
+        "name": "ONE 1 HD Israel",
+        "url": "https://www.daddylivehd.icu/live/stream-541.php",
+        "category": "Entertainment",
+        "image": "https://picsum.photos/200/548"
+      },
+      {
+        "name": "ONE 2 HD Israel",
+        "url": "https://www.daddylivehd.icu/live/stream-542.php",
+        "category": "Entertainment",
+        "image": "https://picsum.photos/200/549"
+      },
+      {
+        "name": "YES Movies Action Israel",
+        "url": "https://www.daddylivehd.icu/live/stream-543.php",
+        "category": "Movies",
+        "image": "https://picsum.photos/200/550"
+      },
+      {
+        "name": "YES Movies Kids Israel",
+        "url": "https://www.daddylivehd.icu/live/stream-544.php",
+        "category": "Kids",
+        "image": "https://picsum.photos/200/551"
+      },
+      {
+        "name": "YES Movies Comedy Israel",
+        "url": "https://www.daddylivehd.icu/live/stream-545.php",
+        "category": "Comedy",
+        "image": "https://picsum.photos/200/552"
+      },
+      {
+        "name": "Channel 9 Israel",
+        "url": "https://www.daddylivehd.icu/live/stream-546.php",
+        "category": "General",
+        "image": "https://picsum.photos/200/553"
+      },
+      {
+        "name": "Channel 10 Israel",
+        "url": "https://www.daddylivehd.icu/live/stream-547.php",
+        "category": "General",
+        "image": "https://picsum.photos/200/554"
+      },
+      {
+        "name": "Channel 11 Israel",
+        "url": "https://www.daddylivehd.icu/live/stream-548.php",
+        "category": "General",
+        "image": "https://picsum.photos/200/555"
+      },
+      {
+        "name": "Channel 12 Israel",
+        "url": "https://www.daddylivehd.icu/live/stream-549.php",
+        "category": "General",
+        "image": "https://picsum.photos/200/556"
+      },
+      {
+        "name": "Premier Sports 2 UK",
+        "url": "https://www.daddylivehd.icu/live/stream-550.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/557"
+      },
+      {
+        "name": "Channel 13 Israel",
+        "url": "https://www.daddylivehd.icu/live/stream-551.php",
+        "category": "General",
+        "image": "https://picsum.photos/200/558"
+      },
+      {
+        "name": "Channel 14 Israel",
+        "url": "https://www.daddylivehd.icu/live/stream-552.php",
+        "category": "General",
+        "image": "https://picsum.photos/200/559"
+      },
+      {
+        "name": "HOT3 Israel",
+        "url": "https://www.daddylivehd.icu/live/stream-553.php",
+        "category": "General",
+        "image": "https://picsum.photos/200/560"
+      },
+      {
+        "name": "Sky Sports Racing UK",
+        "url": "https://www.daddylivehd.icu/live/stream-554.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/561"
+      },
+      {
+        "name": "Racing UK",
+        "url": "https://www.daddylivehd.icu/live/stream-555.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/562"
+      },
+      {
+        "name": "TVP 1 Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-560.php",
+        "category": "General",
+        "image": "https://picsum.photos/200/563"
+      },
+      {
+        "name": "TVP 2 Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-561.php",
+        "category": "General",
+        "image": "https://picsum.photos/200/564"
+      },
+      {
+        "name": "Polsat Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-562.php",
+        "category": "General",
+        "image": "https://picsum.photos/200/565"
+      },
+      {
+        "name": "Motowizja Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-563.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/566"
+      },
+      {
+        "name": "Polsat Film Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-564.php",
+        "category": "Movies",
+        "image": "https://picsum.photos/200/567"
+      },
+      {
+        "name": "TVN HD Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-565.php",
+        "category": "Entertainment",
+        "image": "https://picsum.photos/200/568"
+      },
+      {
+        "name": "Canal+ Premium Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-566.php",
+        "category": "Movies",
+        "image": "https://picsum.photos/200/569"
+      },
+      {
+        "name": "Canal+ Family Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-567.php",
+        "category": "Family",
+        "image": "https://picsum.photos/200/570"
+      },
+      {
+        "name": "FilmBox Premium Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-568.php",
+        "category": "Movies",
+        "image": "https://picsum.photos/200/571"
+      },
+      {
+        "name": "HBO Poland",
+        "url": "https://www.daddylivehd.icu/live/stream-569.php",
+        "category": "Movies",
+        "image": "https://picsum.photos/200/572"
+      },
+      {
+        "name": "Canal + Seriale",
+        "url": "https://www.daddylivehd.icu/live/stream-570.php",
+        "category": "Series",
+        "image": "https://picsum.photos/200/573"
+      },
+      {
+        "name": "SportDigital Fussball",
+        "url": "https://www.daddylivehd.icu/live/stream-571.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/574"
+      },
+      {
+        "name": "SuperSport MáXimo 1",
+        "url": "https://www.daddylivehd.icu/live/stream-572.php",
+        "category": "Sports",
+        "image": "https://picsum.photos/200/575"
+      },
+      
+        {
+          "name": "DAZN 1 Bar Germany",
+          "url": "https://www.daddylivehd.icu/live/stream-427.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/500"
+        },
+        {
+          "name": "DAZN 2 Bar Germany",
+          "url": "https://www.daddylivehd.icu/live/stream-428.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/501"
+        },
+        {
+          "name": "Eleven Sports 3 Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-429.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/502"
+        },
+        {
+          "name": "Arena Sport 1 Serbia",
+          "url": "https://www.daddylivehd.icu/live/stream-430.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/503"
+        },
+        {
+          "name": "Arena Sport 2 Serbia",
+          "url": "https://www.daddylivehd.icu/live/stream-431.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/504"
+        },
+        {
+          "name": "Arena Sport 3 Serbia",
+          "url": "https://www.daddylivehd.icu/live/stream-432.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/505"
+        },
+        {
+          "name": "Arena Sport 1 Croatia",
+          "url": "https://www.daddylivehd.icu/live/stream-433.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/506"
+        },
+        {
+          "name": "Arena Sport 2 Croatia",
+          "url": "https://www.daddylivehd.icu/live/stream-434.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/507"
+        },
+        {
+          "name": "Arena Sport 3 Croatia",
+          "url": "https://www.daddylivehd.icu/live/stream-435.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/508"
+        },
+        {
+          "name": "Movistar Liga de Campeones",
+          "url": "https://www.daddylivehd.icu/live/stream-436.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/509"
+        },
+        {
+          "name": "Movistar Deportes Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-437.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/510"
+        },
+        {
+          "name": "Movistar Deportes 1 Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-438.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/511"
+        },
+        {
+          "name": "Movistar Deportes 2 Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-439.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/512"
+        },
+        {
+          "name": "Orange Sport 1 Romania",
+          "url": "https://www.daddylivehd.icu/live/stream-440.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/513"
+        },
+        {
+          "name": "Orange Sport 2 Romania",
+          "url": "https://www.daddylivehd.icu/live/stream-441.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/514"
+        },
+        {
+          "name": "Orange Sport 3 Romania",
+          "url": "https://www.daddylivehd.icu/live/stream-442.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/515"
+        },
+        {
+          "name": "Orange Sport 4 Romania",
+          "url": "https://www.daddylivehd.icu/live/stream-443.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/516"
+        },
+        {
+          "name": "Polsat Sports News Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-444.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/517"
+        },
+        {
+          "name": "TVN24 Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-445.php",
+          "category": "News",
+          "image": "https://picsum.photos/200/518"
+        },
+        {
+          "name": "DAZN 1 Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-445.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/519"
+        },
+        {
+          "name": "DAZN 2 Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-447.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/520"
+        },
+        {
+          "name": "DAZN 3 Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-448.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/521"
+        },
+        {
+          "name": "DAZN 4 Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-449.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/522"
+        },
+        {
+          "name": "Sky Sports MIX UK",
+          "url": "https://www.daddylivehd.icu/live/stream-449.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/523"
+        },
+        {
+          "name": "BBC One backup",
+          "url": "https://www.daddylivehd.icu/live/stream-551.php",
+          "category": "Entertainment",
+          "image": "https://picsum.photos/200/524"
+        },
+        {
+          "name": "Premier Sports 1 UK",
+          "url": "https://www.daddylivehd.icu/live/stream-451.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/525"
+        },
+        {
+          "name": "TVP INFO Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-452.php",
+          "category": "News",
+          "image": "https://picsum.photos/200/526"
+        },
+        {
+          "name": "Sport Klub HD Serbia",
+          "url": "https://www.daddylivehd.icu/live/stream-453.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/527"
+        },
+        {
+          "name": "#Vamos Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-521.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/528"
+        },
+        {
+          "name": "Barça TV Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-522.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/529"
+        },
+        {
+          "name": "Real Madrid TV Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-523.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/530"
+        },
+        {
+          "name": "EuroSport 1 Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-524.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/531"
+        },
+        {
+          "name": "EuroSport 2 Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-525.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/532"
+        },
+        {
+          "name": "Movistar Deportes 3",
+          "url": "https://www.daddylivehd.icu/live/stream-526.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/533"
+        },
+        {
+          "name": "Movistar Deportes 4",
+          "url": "https://www.daddylivehd.icu/live/stream-527.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/534"
+        },
+        {
+          "name": "Movistar Golf Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-528.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/535"
+        },
+        {
+          "name": "Teledeporte Spain (TDP)",
+          "url": "https://www.daddylivehd.icu/live/stream-529.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/536"
+        },
+        {
+          "name": "Gol Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-530.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/537"
+        },
+        {
+          "name": "Antena 3 Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-531.php",
+          "category": "Entertainment",
+          "image": "https://picsum.photos/200/538"
+        },
+        {
+          "name": "Telecinco Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-532.php",
+          "category": "Entertainment",
+          "image": "https://picsum.photos/200/539"
+        },
+        {
+          "name": "Tve La 1 Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-533.php",
+          "category": "Entertainment",
+          "image": "https://picsum.photos/200/540"
+        },
+        {
+          "name": "Tve La Sexta Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-534.php",
+          "category": "Entertainment",
+          "image": "https://picsum.photos/200/541"
+        },
+        {
+          "name": "Cuatro Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-535.php",
+          "category": "Entertainment",
+          "image": "https://picsum.photos/200/542"
+        },
+        {
+          "name": "Tve La 2 Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-536.php",
+          "category": "Entertainment",
+          "image": "https://picsum.photos/200/543"
+        },
+        {
+          "name": "DAZN F1 Spain",
+          "url": "https://www.daddylivehd.icu/live/stream-537.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/544"
+        },
+        {
+          "name": "Movistar La Liga 1",
+          "url": "https://www.daddylivehd.icu/live/stream-538.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/545"
+        },
+        {
+          "name": "Movistar La Liga 2",
+          "url": "https://www.daddylivehd.icu/live/stream-539.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/546"
+        },
+        {
+          "name": "Movistar La Liga 3",
+          "url": "https://www.daddylivehd.icu/live/stream-540.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/547"
+        },
+        {
+          "name": "ONE 1 HD Israel",
+          "url": "https://www.daddylivehd.icu/live/stream-541.php",
+          "category": "Entertainment",
+          "image": "https://picsum.photos/200/548"
+        },
+        {
+          "name": "ONE 2 HD Israel",
+          "url": "https://www.daddylivehd.icu/live/stream-542.php",
+          "category": "Entertainment",
+          "image": "https://picsum.photos/200/549"
+        },
+        {
+          "name": "YES Movies Action Israel",
+          "url": "https://www.daddylivehd.icu/live/stream-543.php",
+          "category": "Movies",
+          "image": "https://picsum.photos/200/550"
+        },
+        {
+          "name": "YES Movies Kids Israel",
+          "url": "https://www.daddylivehd.icu/live/stream-544.php",
+          "category": "Kids",
+          "image": "https://picsum.photos/200/551"
+        },
+        {
+          "name": "YES Movies Comedy Israel",
+          "url": "https://www.daddylivehd.icu/live/stream-545.php",
+          "category": "Comedy",
+          "image": "https://picsum.photos/200/552"
+        },
+        {
+          "name": "Channel 9 Israel",
+          "url": "https://www.daddylivehd.icu/live/stream-546.php",
+          "category": "General",
+          "image": "https://picsum.photos/200/553"
+        },
+        {
+          "name": "Channel 10 Israel",
+          "url": "https://www.daddylivehd.icu/live/stream-547.php",
+          "category": "General",
+          "image": "https://picsum.photos/200/554"
+        },
+        {
+          "name": "Channel 11 Israel",
+          "url": "https://www.daddylivehd.icu/live/stream-548.php",
+          "category": "General",
+          "image": "https://picsum.photos/200/555"
+        },
+        {
+          "name": "Channel 12 Israel",
+          "url": "https://www.daddylivehd.icu/live/stream-549.php",
+          "category": "General",
+          "image": "https://picsum.photos/200/556"
+        },
+        {
+          "name": "Premier Sports 2 UK",
+          "url": "https://www.daddylivehd.icu/live/stream-550.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/557"
+        },
+        {
+          "name": "Channel 13 Israel",
+          "url": "https://www.daddylivehd.icu/live/stream-551.php",
+          "category": "General",
+          "image": "https://picsum.photos/200/558"
+        },
+        {
+          "name": "Channel 14 Israel",
+          "url": "https://www.daddylivehd.icu/live/stream-552.php",
+          "category": "General",
+          "image": "https://picsum.photos/200/559"
+        },
+        {
+          "name": "HOT3 Israel",
+          "url": "https://www.daddylivehd.icu/live/stream-553.php",
+          "category": "General",
+          "image": "https://picsum.photos/200/560"
+        },
+        {
+          "name": "Sky Sports Racing UK",
+          "url": "https://www.daddylivehd.icu/live/stream-554.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/561"
+        },
+        {
+          "name": "Racing UK",
+          "url": "https://www.daddylivehd.icu/live/stream-555.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/562"
+        },
+        {
+          "name": "TVP 1 Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-560.php",
+          "category": "General",
+          "image": "https://picsum.photos/200/563"
+        },
+        {
+          "name": "TVP 2 Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-561.php",
+          "category": "General",
+          "image": "https://picsum.photos/200/564"
+        },
+        {
+          "name": "Polsat Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-562.php",
+          "category": "General",
+          "image": "https://picsum.photos/200/565"
+        },
+        {
+          "name": "Motowizja Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-563.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/566"
+        },
+        {
+          "name": "Polsat Film Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-564.php",
+          "category": "Movies",
+          "image": "https://picsum.photos/200/567"
+        },
+        {
+          "name": "TVN HD Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-565.php",
+          "category": "Entertainment",
+          "image": "https://picsum.photos/200/568"
+        },
+        {
+          "name": "Canal+ Premium Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-566.php",
+          "category": "Movies",
+          "image": "https://picsum.photos/200/569"
+        },
+        {
+          "name": "Canal+ Family Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-567.php",
+          "category": "Family",
+          "image": "https://picsum.photos/200/570"
+        },
+        {
+          "name": "FilmBox Premium Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-568.php",
+          "category": "Movies",
+          "image": "https://picsum.photos/200/571"
+        },
+        {
+          "name": "HBO Poland",
+          "url": "https://www.daddylivehd.icu/live/stream-569.php",
+          "category": "Movies",
+          "image": "https://picsum.photos/200/572"
+        },
+        {
+          "name": "Canal + Seriale",
+          "url": "https://www.daddylivehd.icu/live/stream-570.php",
+          "category": "Series",
+          "image": "https://picsum.photos/200/573"
+        },
+        {
+          "name": "SportDigital Fussball",
+          "url": "https://www.daddylivehd.icu/live/stream-571.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/574"
+        },
+        {
+          "name": "SuperSport MáXimo 1",
+          "url": "https://www.daddylivehd.icu/live/stream-572.php",
+          "category": "Sports",
+          "image": "https://picsum.photos/200/575"
+        }
+      ]
+  }
+    
+  
