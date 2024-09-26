@@ -98,7 +98,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const option = document.createElement("option");
       option.value = category.toLowerCase();
       option.text = category[0].toUpperCase() + category.slice(1);
-      option.classList.add("text-black");
+      option.classList.add(["category-option", "text-black"]);
       categoryFilter.add(option);
     });
   }
@@ -118,5 +118,32 @@ document.addEventListener("DOMContentLoaded", function () {
       tile.classList.toggle("bg-white", !darkModeEnabled);
       tile.classList.toggle("text-black", !darkModeEnabled);
     });
+    const catoptions = document.querySelectorAll(".category-option");
+    catoptions.forEach((option) => {
+      option.classList.toggle("text-white", darkModeEnabled);
+      option.classList.toggle("text-black", !darkModeEnabled);
+    });
+
+    const categoryFilter = document.querySelector("#category-filter");
+    categoryFilter.classList.toggle("bg-gray-900", darkModeEnabled);
+    categoryFilter.classList.toggle("text-white", darkModeEnabled);
+    categoryFilter.classList.toggle("bg-white", !darkModeEnabled);
+    categoryFilter.classList.toggle("text-black", !darkModeEnabled);
+
+    const searchInput = document.querySelector("#search-input");
+    searchInput.classList.toggle("bg-gray-900", darkModeEnabled);
+    searchInput.classList.toggle("text-white", darkModeEnabled);
+    searchInput.classList.toggle("bg-white", !darkModeEnabled);
+    searchInput.classList.toggle("text-black", !darkModeEnabled);
+
+    const darkModeHandler = document.querySelector("#darkModeHandler");
+    darkModeHandler.classList.toggle("before:justify-end", darkModeEnabled);
+    darkModeHandler.classList.toggle("before:justify-start", !darkModeEnabled);
+    darkModeHandler.classList.toggle("before:bg-gray-700", darkModeEnabled);
+    darkModeHandler.classList.toggle("before:bg-white", !darkModeEnabled);
+    darkModeHandler.classList.toggle("before:content-['🌑']", darkModeEnabled);
+    darkModeHandler.classList.toggle("before:content-['☀️']", !darkModeEnabled);
+
+    darkModeHandler.textContent = darkModeEnabled ? "Dark Mode" : "Light Mode";
   }
 });
