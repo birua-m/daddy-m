@@ -141,7 +141,7 @@ document.addEventListener("DOMContentLoaded", function () {
     darkModeHandler.classList.toggle("before:justify-start", !darkModeEnabled);
     darkModeHandler.classList.toggle("before:bg-gray-700", darkModeEnabled);
     darkModeHandler.classList.toggle("before:bg-white", !darkModeEnabled);
-    darkModeHandler.classList.toggle("before:content-['🌑']", darkModeEnabled);
+    darkModeHandler.classList.toggle("before:content-['🌙']", darkModeEnabled);
     darkModeHandler.classList.toggle("before:content-['☀️']", !darkModeEnabled);
 
     darkModeHandler.textContent = darkModeEnabled ? "Dark Mode" : "Light Mode";
