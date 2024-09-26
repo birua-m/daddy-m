@@ -1,6 +1,18 @@
 {
   "channels": [
     {
+      "name": "Live HD7",
+      "url": "https://livehd7.day",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=576"
+    },
+    {
+      "name": "CricHD Info",
+      "url": "https://crichd.info",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=577"
+    },
+    {
       "name": "BT Sport 1 HD",
       "url": "https://www.daddylivehd.icu/live/stream-31.php",
       "category": "sports",
