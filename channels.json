@@ -1,10 +1,82 @@
 {
   "channels": [
     {
+      "name": "Vumoo",
+      "url": "https://vumoo.live/home/",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=579"
+    },
+    {
+      "name": "A good movie to watch",
+      "url": "https://agoodmovietowatch.com/the-very-best/movies/?genre=documentary",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=580"
+    },
+    {
+      "name": "M4UHD TV",
+      "url": "https://ww1.m4uhd.tv/",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=581"
+    },
+    {
+      "name": "Look Movie",
+      "url": "https://freeonlinehd.site/lookmovie/",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=582"
+    },
+    {
+      "name": "Onion Plays",
+      "url": "https://onionplays.site/",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=583"
+    },
+    {
+      "name": "Hura Watch",
+      "url": "https://hurawatch.vip/",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=578"
+    },
+    {
+      "name": "Tubi US",
+      "url": "https://tubitv.com/",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=578"
+    },
+    {
       "name": "Live HD7",
       "url": "https://livehd7.day",
       "category": "Sources",
       "image": "https://picsum.photos/200/300?random=576"
+    },
+    {
+      "name": "Cine Zone",
+      "url": "https://cinezone.to/home?utm_source=movie",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=586"
+    },
+    {
+      "name": "F2 Movies",
+      "url": "https://f2.watchmovieshd.cfd/",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=584" 
+    },
+    {
+      "name": "Soap 2 Day",
+      "url": "https://soap2dayapp.net/",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=587"
+    },
+    {
+      "name": "Cine Go",
+      "url": "https://cinego.tv/movies",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=588"
+    },
+    {
+      "name": "Watch SeriesTV",
+      "url": "https://watchseriestv.nl/home",
+      "category": "Sources",
+      "image": "https://picsum.photos/200/300?random=585"
     },
     {
       "name": "CricHD Info",
